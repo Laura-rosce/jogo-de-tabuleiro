@@ -10,4 +10,5 @@ Neste projeto está sendo usada a linguagem de programação Python, por ser sim
 - `banco.py`
 - `main.py`
 
-Nos quais cada um possui funcionalidades específicas. Este repositório será atualizado a cada mudança realizada no projeto.
+Nos quais cada um possui funcionalidades específicas.\
+Este repositório será atualizado a cada mudança realizada no projeto.
